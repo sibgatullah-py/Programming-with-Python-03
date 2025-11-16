@@ -9,3 +9,11 @@ use assert for :
     Helps to test logic without writing extra code 
     
 '''
+a = 2
+b = 2
+assert a == b
+print("Assert passed!")
+
+c = 3
+d = 4
+assert c == d
