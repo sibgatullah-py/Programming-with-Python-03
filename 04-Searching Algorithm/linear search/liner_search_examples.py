@@ -21,3 +21,5 @@ def linear_search_two(L,x):
         if L[i] == x:
             return i
     return -1
+
+# Liner search treverse the list one by one which takes huge amount of time 
