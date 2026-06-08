@@ -1,0 +1,8 @@
+Here i am practicing 3 common but powerful sorting algorithm--
+
+1. Selection sorting
+2. Bubble sorting
+3. Insertion sorting
+
+
+# Selection Sorting:
