@@ -9,7 +9,8 @@ def find(l):
             if l[j]>l[largest]:
                 largest = j
                 
-    print(f"Largest: {l[largest]} Smallest:{l[smallest]}")
+    print(f"Largest: {l[largest]}   Smallest:{l[smallest]}")
+    print(f"Largest Index: {largest}   Smallest Index:{smallest}")
     
 L = [3,6,10,1,7,2,5,9,4,8]
 
